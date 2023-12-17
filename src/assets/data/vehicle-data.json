@@ -1,0 +1,18 @@
+{
+	"vehicles": [
+		{ "name": "Car, Jeep, Van, SUV", "value": "Car, Jeep, Van, SUV" },
+		{ "name": "Taxi", "value": "Taxi" },
+		{
+			"name": "Pickup Truck, Light Commercial Vehicle",
+			"value": "Pickup Truck, Light Commercial Vehicle"
+		},
+		{ "name": "Truck", "value": "Truck" },
+		{ "name": "Bus", "value": "Bus" },
+		{ "name": "Recreational Vehicle", "value": "Recreational Vehicle" },
+		{
+			"name": "Heavy Construction Machinery and Earth Moving Equipment",
+			"value": "Heavy Construction Machinery and Earth Moving Equipment"
+		},
+		{ "name": "Bike", "value": "Bike" }
+	]
+}
