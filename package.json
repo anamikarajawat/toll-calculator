@@ -15,15 +15,13 @@
     "react-leaflet": "^4.2.1",
     "react-router-dom": "^6.21.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "proxy":"https://apis.tollguru.com/toll/v2/origin-destination-waypoints"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "proxy":"https://apis.tollguru.com/toll/v2/origin-destination-waypoints"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.3.6",
-    "proxy":"https://apis.tollguru.com/toll/v2/origin-destination-waypoints"
+    "tailwindcss": "^3.3.6"
   }
 }
