@@ -6,9 +6,6 @@ function UserGuide(props) {
           <div className="relative w-full bg-white">
 				<div className="mx-auto max-w-8xl lg:px-8">
 					<div className="flex flex-col justify-center px-4 py-10 lg:px-6">
-						<h1 className="mt-8 max-w-4xl text-3xl font-bold tracking-tight text-black md:text-4xl lg:text-6xl">
-							User Guide
-						</h1>
 						<h4 className="mt-8 max-w-3xl text-xl font-bold tracking-tight md:text-2xl lg:text-3xl text-gray-700">
 							How do tolls work in the USA
 						</h4>
@@ -28,6 +25,12 @@ function UserGuide(props) {
 							On electronic toll collection (ETC) systems, when you cross an electronic toll pass plaza without a valid toll pass, it is counted as a toll violation. Cameras near toll booths register your license plates and send a bill to the vehicle owner via the Video toll or Pay-By-Bill system.The US toll system is fragmented. Over 90 tolling agencies, 12 interoperable groups and 20 tolling brands are active. Click on state names to see state-specific tolling details:
 						</p>
 						
+						<h4 className="mt-8 max-w-3xl text-xl font-bold tracking-tight md:text-2xl lg:text-3xl text-gray-700">
+							How do I Calculate Tolls for a Trip ? 
+						</h4>
+						<p className="mt-8 max-w-3xl text-lg text-gray-700">
+							You can calculate tolls for a trip using TollGuru Toll Calculator. Just enter your origin, destination and Submit. It shows you accurate toll costs for your selected vehicle. You also get the cheapest and fastest route options to your destination. It’s noticeable how popular mapping services - Google Maps, Apple Maps, Waze etc. - miss out on this crucial trip info.
+						</p>
 					</div>
 				</div>
 			</div>
